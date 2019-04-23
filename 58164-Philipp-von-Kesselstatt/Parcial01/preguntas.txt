@@ -1,0 +1,7 @@
+1) Escribiria 4 modulos en total, un modulo para hacer las operaciones, un modulo para la interfaz, un modulo para el test de la operacion y un modulo para los tests de la interfaz.
+
+2)Los unittests son los archivos test_interfaz.py y test_hexa.py en esta carpeta
+
+3) El codigo esta en los archivos hexa interfaz.py y hexad.py de esta carpeta
+
+4)El trabajo esta subido a GitHub
